@@ -1,0 +1,11 @@
+.c-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 20px;
+}
+
+img{
+  height: 300px;
+  width: 280px;
+}

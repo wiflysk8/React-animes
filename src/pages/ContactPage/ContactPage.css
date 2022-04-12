@@ -1,0 +1,22 @@
+.c-contact{
+    display: flex; 
+    
+}
+
+.c-form__input{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    border-radius: 5px;
+    width: 200px;
+}
+
+select{
+    width: 200px;
+}
+
+textarea{
+    margin: 4px;
+}
